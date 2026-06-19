@@ -8,14 +8,13 @@ I'm working through the book chapter by chapter, writing up what I learn in my o
 
 - **`notes/`** — One markdown file per chapter. Concepts, gotchas, glossary, "when would I use this" notes.
 - **`notebooks/`** — My own exploratory Jupyter notebooks. Not copies of the book's source — original experiments applying chapter ideas to different examples or my own data.
-- **`posts/`** — Drafts of the LinkedIn posts I share along the way.
 - **`projects/`** — Slightly bigger side projects that combine multiple chapters' ideas.
 
 ## Progress
 
 | Chapter | Topic | Notes | Notebook | Post |
 | --- | --- | --- | --- | --- |
-| 1 | LangChain basics (PromptTemplate, chains) | [notes](notes/ch01-langchain-basics.md) | [notebook](notebooks/ch01-prompttemplate-exploration.ipynb) | [post](posts/2026-06-19-day-1-prompttemplate.md) |
+| 1 | LangChain basics (PromptTemplate, chains) | [notes](notes/ch01-langchain-basics.md) | [notebook](notebooks/ch01-prompttemplate-exploration.ipynb) | 
 | 2 | Prompt engineering | — | — | — |
 | 3 | Summarization | — | — | — |
 | 4 | Research engine (agents) | — | — | — |
