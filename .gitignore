@@ -1,0 +1,25 @@
+# Secrets — never commit
+.env
+*.key
+*.pem
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Vector store data (large local files)
+chroma_db/
+*.sqlite
